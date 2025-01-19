@@ -50270,7 +50270,7 @@ case"other":return B.QY
 default:return B.u2}},
 $S:313}
 A.tv.prototype={
-F(a){var s=this,r=null,q=A.b([A.aYq(B.lR,A.hk(B.WK,A.N(a).fr,r,s.r),r,s.f)],t.p),p=A.N(a).p2.Q
+F(a){var s=this,r=null,q=A.b([A.aYq(B.lR,A.hk(B.WJ,A.N(a).fr,r,s.r),r,s.f)],t.p),p=A.N(a).p2.Q
 p.toString
 q.push(A.c4(new A.bj(B.Sb,A.es(A.bq(s.c.b,1,B.as,r,p.bf(A.N(a).p2.at.b),r,r,r),r,r),r),r,70))
 return new A.JI(A.cG(q,B.O,B.G,B.K,0),s.d,r)}}
@@ -50386,7 +50386,7 @@ A.akE.prototype={
 $1(a){return this.a.aB()},
 $S:24}
 A.x_.prototype={
-F(a){var s=null,r=this.d,q=A.N(a),p=A.N(a),o=A.N(a).fr.aR(0.3),n=A.b([A.Rd(A.hk(B.WF,s,s,s),"Home"),A.Rd(A.hk(B.WW,s,s,s),"Calendar"),A.Rd(A.hk(B.WU,s,s,s),"Transactions"),A.Rd(A.hk(B.WY,s,s,s),"Accounts"),A.Rd(A.hk(B.WC,s,s,s),"Settings")],t.ur)
+F(a){var s=null,r=this.d,q=A.N(a),p=A.N(a),o=A.N(a).fr.aR(0.3),n=A.b([A.Rd(A.hk(B.WE,s,s,s),"Home"),A.Rd(A.hk(B.WV,s,s,s),"Calendar"),A.Rd(A.hk(B.WT,s,s,s),"Transactions"),A.Rd(A.hk(B.WX,s,s,s),"Accounts"),A.Rd(A.hk(B.WB,s,s,s),"Settings")],t.ur)
 return A.qX(!0,A.qY(s,r,new A.DN(n,new A.ab5(this),r.f,q.ax.k2,p.fr,o,!0,s),s),!0,!1,B.ak,!0,!0)}}
 A.ab5.prototype={
 $1(a){var s,r,q=this.a.d,p=q.c.a.Q.gK()
@@ -50898,7 +50898,7 @@ if(s!=null)s.a4F()},
 $S:0}
 A.acr.prototype={
 $1(a){var s=null
-return A.fT(s,A.hk(B.WX,A.N(a).fr,s,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aca(this.a),s,s,s,s,s,s,s,s)},
+return A.fT(s,A.hk(B.WW,A.N(a).fr,s,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aca(this.a),s,s,s,s,s,s,s,s)},
 $S:245}
 A.aca.prototype={
 $0(){var s=this.a.d.gK()
@@ -51070,7 +51070,7 @@ s=A.aq(a,p,t.w).w
 r=l.b
 q=t.p
 s=A.c4(A.cG(A.b([B.Kj,B.p5,A.bq(n.c,p,p,p,B.GU,p,p,p),A.bq(n.b,p,p,p,B.pn,p,p,p),A.bq("Version: "+r.c,p,p,p,B.pn,p,p,p),A.bq("Build Number: "+r.d,p,p,p,B.pn,p,p,p)],q),B.O,B.cA,B.K,0),p,s.a.a)
-r=A.b1w(A.b([this.Wu(a,"Logout",B.WD,"",new A.axt(a,m)),this.Wu(a,"Reload PWA",B.WB,"",new A.axu())],q),!0,!0,!0)
+r=A.b1w(A.b([this.Wu(a,"Logout",B.WC,"",new A.axt(a,m)),this.Wu(a,"Reload App",B.WZ,"",new A.axu())],q),!0,!0,!0)
 return new A.bj(B.Sg,A.qY(o,A.qX(!0,A.IA(A.cG(A.b([s,B.hx,B.ul,B.p5,new A.Gh(r,p,B.a6,!1,p,!1,p,!0,p,2,B.X,B.kx,p,B.J,B.ap,p)],q),B.O,B.cA,B.K,0),p,p,p,p,B.a6),!0,!1,B.ak,!0,!0),p,p),p)},
 Wu(a,b,c,d,e){var s=null,r=A.bq(b,s,s,s,s,s,s,s),q=A.hk(c,s,s,s)
 return A.b_C(!1,s,!0,s,!0,s,!0,!1,q,s,new A.axp(e,a,d),!1,s,s,s,s,s,r,s,s)}}
@@ -51138,7 +51138,7 @@ r=q==null?r.fy:q
 q=A.N(a).ax
 s=q.k1
 q=s==null?q.go:s
-return new A.Al(r,q,new A.aAC(c,this.a,this.b),B.WZ,"Delete",A.ns(8),null)},
+return new A.Al(r,q,new A.aAC(c,this.a,this.b),B.WY,"Delete",A.ns(8),null)},
 $S:482}
 A.aAC.prototype={
 $1(a){return this.a.$1(J.aF(this.b,this.c))},
@@ -60066,7 +60066,7 @@ p=A.bq(p,q,B.as,q,o==null?q:o.bf(n),q,q,q)
 o=this.d
 o===$&&A.a()
 r=t.p
-s=A.c4(A.qc(!1,!0,new A.bj(B.dm,A.eo(A.b([new A.i3(1,B.cx,p,q),A.aUS(A.hk(B.WH,n,q,q),o)],r),B.O,B.G,B.K,0,q),q),q,!0,q,q,q,q,q,q,q,q,q,q,q,s,q,q,q,q,q,q,q),52,q)
+s=A.c4(A.qc(!1,!0,new A.bj(B.dm,A.eo(A.b([new A.i3(1,B.cx,p,q),A.aUS(A.hk(B.WG,n,q,q),o)],r),B.O,B.G,B.K,0,q),q),q,!0,q,q,q,q,q,q,q,q,q,q,q,s,q,q,q,q,q,q,q),52,q)
 p=A.b([new A.i3(1,B.cx,new A.bA(A.bP(q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Select year",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),!0,!1,!1,!1,s,q),q)],r)
 if(this.a.c===B.fH)p.push(B.a6v)
 return A.c4(new A.bj(B.uz,A.eo(p,B.O,B.G,B.K,0,q),q),52,q)},
@@ -61993,7 +61993,7 @@ k=m.y
 h=a
 switch(k==null?A.l(m).h("am.T").a(k):k){case B.cX:a0.a=j.$0()
 m=b.a.cy
-m=A.hk(B.WS,a,a,a)
+m=A.hk(B.WR,a,a,a)
 h=A.mi(l,a,a,a,m,a,a,b.gVx(),a,a,a,"Switch to input")
 break
 case B.fG:a0.a=j.$0()
@@ -68855,7 +68855,7 @@ o=p.d
 n=j.d
 m=t.yQ
 m=n?new A.cn(B.Gk,m):new A.cn(B.a6Q,m)
-l=A.hk(n?B.vc:B.WQ,i,i,i)
+l=A.hk(n?B.vc:B.WP,i,i,i)
 k=n?"Back":"More"
 m=A.b([new A.a7h(l,new A.aO6(j),k,m)],t.p)
 B.c.L(m,j.a.c)
@@ -70506,7 +70506,7 @@ o=(n==null?o.$ti.h("am.T").a(n):n)===B.c3}else o=!0
 if(o){o=A.um(h,h,h,h,h,h,s,h,h,h,h,h,h,h)
 n=i.gfN()
 m=n.y
-l=A.hk((m==null?n.$ti.h("am.T").a(m):m)===B.b5?B.WT:B.WG,h,h,h)
+l=A.hk((m==null?n.$ti.h("am.T").a(m):m)===B.b5?B.WS:B.WF,h,h,h)
 n=i.gfN()
 m=n.y
 if((m==null?n.$ti.h("am.T").a(m):m)===B.b5){A.c1(a,B.H,r).toString
@@ -115318,8 +115318,8 @@ B.Kf=new A.pK(8,"presence")
 B.Kg=new A.pK(9,"postgresChanges")
 B.Kh=new A.xj(null,null,null,null,null,null,null,null,null)
 B.Ki=new A.xl(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WE=new A.cJ(62907,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.X8=new A.eO(B.WE,50,null,null,null)
+B.WD=new A.cJ(62907,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.X8=new A.eO(B.WD,50,null,null,null)
 B.t2=new A.c(1,0.9803921568627451,0.9803921568627451,0.9803921568627451,B.b)
 B.Ll=new A.c(1,0.9607843137254902,0.9607843137254902,0.9607843137254902,B.b)
 B.QB=new A.c(1,0.9333333333333333,0.9333333333333333,0.9333333333333333,B.b)
@@ -115832,52 +115832,52 @@ B.nN=new A.FM(1,"H")
 B.nO=new A.FM(2,"h")
 B.bf=new A.alV(0,"start")
 B.vb=new A.mj(null)
-B.WB=new A.cJ(60825,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WC=new A.cJ(63144,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WD=new A.cJ(63194,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WF=new A.cJ(62592,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WG=new A.cJ(57402,"MaterialIcons",null,!1)
+B.WB=new A.cJ(63144,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WC=new A.cJ(63194,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WE=new A.cJ(62592,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WF=new A.cJ(57402,"MaterialIcons",null,!1)
 B.vc=new A.cJ(57490,"MaterialIcons",null,!0)
-B.WH=new A.cJ(57496,"MaterialIcons",null,!1)
-B.WK=new A.cJ(57672,"MaterialIcons",null,!1)
+B.WG=new A.cJ(57496,"MaterialIcons",null,!1)
+B.WJ=new A.cJ(57672,"MaterialIcons",null,!1)
 B.vd=new A.cJ(57694,"MaterialIcons",null,!0)
 B.ve=new A.cJ(57695,"MaterialIcons",null,!0)
 B.vf=new A.cJ(58332,"MaterialIcons",null,!1)
-B.WQ=new A.cJ(58372,"MaterialIcons",null,!1)
-B.WS=new A.cJ(61453,"MaterialIcons",null,!1)
-B.WT=new A.cJ(61764,"MaterialIcons",null,!1)
-B.WU=new A.cJ(983944,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WP=new A.cJ(58372,"MaterialIcons",null,!1)
+B.WR=new A.cJ(61453,"MaterialIcons",null,!1)
+B.WS=new A.cJ(61764,"MaterialIcons",null,!1)
+B.WT=new A.cJ(983944,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
 B.vg=new A.cJ(57559,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WW=new A.cJ(983685,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WX=new A.cJ(61826,"FluentSystemIcons-Regular","fluentui_system_icons",!0)
-B.WY=new A.cJ(62798,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.WZ=new A.cJ(62285,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WV=new A.cJ(983685,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WW=new A.cJ(61826,"FluentSystemIcons-Regular","fluentui_system_icons",!0)
+B.WX=new A.cJ(62798,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WY=new A.cJ(62285,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.WZ=new A.cJ(61841,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
 B.X1=new A.cd(null,null,null,null,null,B.j,null,null,null)
 B.X0=new A.cd(null,null,null,null,null,B.i,null,null,null)
 B.vh=new A.cd(24,0,400,0,48,B.j,1,null,!1)
-B.WP=new A.cJ(58344,"MaterialIcons",null,!1)
-B.X2=new A.eO(B.WP,null,B.q,null,null)
-B.WL=new A.cJ(57686,"MaterialIcons",null,!1)
-B.vi=new A.eO(B.WL,null,null,null,null)
-B.WJ=new A.cJ(57657,"MaterialIcons",null,!1)
-B.X3=new A.eO(B.WJ,null,null,null,null)
+B.WO=new A.cJ(58344,"MaterialIcons",null,!1)
+B.X2=new A.eO(B.WO,null,B.q,null,null)
+B.WK=new A.cJ(57686,"MaterialIcons",null,!1)
+B.vi=new A.eO(B.WK,null,null,null,null)
+B.WI=new A.cJ(57657,"MaterialIcons",null,!1)
+B.X3=new A.eO(B.WI,null,null,null,null)
 B.X_=new A.cJ(61681,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
 B.X4=new A.eO(B.X_,null,null,null,null)
-B.WV=new A.cJ(61706,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
-B.X5=new A.eO(B.WV,null,null,null,null)
-B.WR=new A.cJ(58513,"MaterialIcons",null,!1)
-B.vj=new A.eO(B.WR,null,null,null,null)
-B.WI=new A.cJ(57634,"MaterialIcons",null,!1)
-B.X6=new A.eO(B.WI,null,null,null,null)
+B.WU=new A.cJ(61706,"FluentSystemIcons-Regular","fluentui_system_icons",!1)
+B.X5=new A.eO(B.WU,null,null,null,null)
+B.WQ=new A.cJ(58513,"MaterialIcons",null,!1)
+B.vj=new A.eO(B.WQ,null,null,null,null)
+B.WH=new A.cJ(57634,"MaterialIcons",null,!1)
+B.X6=new A.eO(B.WH,null,null,null,null)
 B.X7=new A.eO(B.ve,null,null,null,null)
-B.WO=new A.cJ(58286,"MaterialIcons",null,!1)
-B.X9=new A.eO(B.WO,null,null,null,null)
+B.WN=new A.cJ(58286,"MaterialIcons",null,!1)
+B.X9=new A.eO(B.WN,null,null,null,null)
 B.Xa=new A.eO(B.vd,null,null,null,null)
 B.Xb=new A.eO(B.vg,null,null,null,null)
-B.WN=new A.cJ(57898,"MaterialIcons",null,!1)
-B.Xc=new A.eO(B.WN,null,null,null,null)
-B.WM=new A.cJ(57706,"MaterialIcons",null,!1)
-B.ag5=new A.eO(B.WM,null,null,null,null)
+B.WM=new A.cJ(57898,"MaterialIcons",null,!1)
+B.Xc=new A.eO(B.WM,null,null,null,null)
+B.WL=new A.cJ(57706,"MaterialIcons",null,!1)
+B.ag5=new A.eO(B.WL,null,null,null,null)
 B.aG=A.b(s([]),t.oU)
 B.Xd=new A.o2("\ufffc",null,null,!0,!0,B.aG)
 B.Xe=new A.qd(null,null,null,null,null,null,null,null,B.eB,B.eg,!1,null,!1,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,!1,null)
